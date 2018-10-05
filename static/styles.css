@@ -138,6 +138,16 @@ h1 {
   min-width: 35px;
 }
 
+#legal-links {
+  display: flex;
+  justify-content: center;
+  font-size: calc(12px + (20 - 12) * ((100vw - 300px) / (1600 - 300)));
+  padding: 10px 0;
+}
+#legal-links p {
+  margin: 0 4px;
+}
+
 /* ========= Links ========= */
 a {
   text-decoration: none;
