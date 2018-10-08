@@ -9,6 +9,8 @@ path = "/impressum"
 draft = false
 +++
 
+<h1>Imprint</h1>
+
 <h2>Angaben gemäß § 5 TMG:</h2>
 <p>Jessica Malm<br />
   Malm Design<br />
